@@ -10,7 +10,7 @@ Este proyecto fue creado como parte del curso de Udemy:
 ## 🌐 Demo en línea
 
 Podés probar el proyecto aquí:  
-👉 [Ver proyecto en vivo]()
+👉 [Ver proyecto en vivo](https://inquisitive-tartufo-c2af3e.netlify.app/)
 
 ---
 
