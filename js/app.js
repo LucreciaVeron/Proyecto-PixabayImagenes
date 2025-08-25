@@ -26,7 +26,7 @@ function validarFormulario(e){
 function buscarImagenes(){
     const termino = document.querySelector('#termino').value;
 
-    const key='51890834-04564417bbda0d408b1213516';
+    const key= 'TU_API_KEY_AQUI';
     const url=`https://pixabay.com/api/?key=${key}&q=${termino}&per_page=${registrosPorPagina}&page=${paginaActual}`;
 
     fetch(url)
